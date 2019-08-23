@@ -1,8 +1,6 @@
 package practice06;
 
 
-import practice06.Person;
-
 public class Teacher extends Person{
 	private int klass;
 
